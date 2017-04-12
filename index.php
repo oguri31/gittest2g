@@ -10,5 +10,7 @@ print "飛び級番22"
 print "のつぎ"
 print "###"
 print "###1"
+print "###2"
+print "###3"
 
 ?>
