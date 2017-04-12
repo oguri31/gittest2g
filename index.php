@@ -6,7 +6,7 @@ print "３ばんめ";
 print "４ばんめ";
 print "４ばんめ枝分かれ";
 
-print "飛び級番22"
+print "飛び級番22S"
 print "のつぎ"
 print "###"
 print "###1"
