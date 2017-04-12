@@ -13,7 +13,7 @@ print "###3セカンドど"
 print "###４ｂｃｄ"
 print "###５ｂｃ"
 print "###７ｂｃ"
-print "衝突２"
+print "衝突２Sｓ"
 print "衝突１"
 
 
