@@ -15,6 +15,7 @@ print "###５ｂｃ"
 print "###７ｂｃ"
 print "衝突２あああ"
 print "衝突２Sｓ"
+
 print "衝突１"
 
 
