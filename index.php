@@ -13,10 +13,7 @@ print "###3セカンドど"
 print "###４ｂｃｄ"
 print "###５ｂｃ"
 print "###７ｂｃ"
-<<<<<<< HEAD
 print "衝突２あああ"
-=======
->>>>>>> c8baa49eef65dcdaed03950f47b320d6114d087e
 print "衝突２Sｓ"
 print "衝突１"
 
