@@ -9,8 +9,8 @@ print "４ばんめ枝分かれ";
 print "###６"
 print "飛び級番22S"
 print "のつぎ"
-print "###3セカンド"
-print "###４ｂｃ"
+print "###3セカンドど"
+print "###４ｂｃｄ"
 print "###５ｂｃ"
 print "###７ｂｃ"
 
