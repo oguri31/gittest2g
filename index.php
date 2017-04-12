@@ -10,9 +10,9 @@ print "###６"
 print "飛び級番22S"
 print "のつぎ"
 print "###3セカンド"
-print "###４"
-print "###５"
-print "###７"
+print "###４ｂ"
+print "###５ｂ"
+print "###７ｂ"
 
 
 ?>
