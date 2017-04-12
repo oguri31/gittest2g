@@ -14,6 +14,7 @@ print "###４ｂｃｄ"
 print "###５ｂｃ"
 print "###７ｂｃ"
 print "衝突２"
+print "衝突１"
 
 
 ?>
